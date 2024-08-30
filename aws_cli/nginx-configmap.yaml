@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx-html
+data:
+  index.html: |
+    <!DOCTYPE html>
+    <html>
+    <body>
+    <h1>Hello from T2S</h1>
+    <p>If you see this message it means that you have successfully set up a Kubernetes cluster on AWS using EKS. You are a genius and God bless you!</p>
+    </body>
+    </html>
