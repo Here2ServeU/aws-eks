@@ -2,10 +2,11 @@
 
 Here are the steps: 
 
- 1. Create an EKS cluster with the AWS CLI.
- 2. Deploy an Nginx service that displays a custom message.
- 3. Use kubectl to manage the Kubernetes resources.
- 4. Access the service through a load balancer, confirming everything worked smoothly.
+ 1. Download this repo to your local machine and move it into the aws_cli folder. 
+ 2. Create an EKS cluster with the AWS CLI.
+ 3. Deploy an Nginx service that displays a custom message.
+ 4. Use kubectl to manage the Kubernetes resources.
+ 5. Access the service through a load balancer, confirming everything worked smoothly.
 
 This experience was a great way to dive deeper into Kubernetes on AWS and understand how EKS can simplify the management of containerized applications at scale. 🛠️
 
