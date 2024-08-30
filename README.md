@@ -2,7 +2,7 @@
 
 Here are the steps: 
 
- 1. Download this repo to your local machine and move it into the aws_cli folder. 
+ 1. Download this repo to your local machine and move it into the aws_cli folder to do the project using the AWS CLI. 
  2. Create an EKS cluster with the AWS CLI.
  3. Deploy an Nginx service that displays a custom message.
  4. Use kubectl to manage the Kubernetes resources.
