@@ -1,16 +1,16 @@
 ### Move to the folder, terraform, after cloning this repository
-* cd /terraform/ 
+cd /terraform/ 
 
 ### Modify the variables.tf file as desired
 
 ### Initialize
-* terraform init
+terraform init
 
 ### Plan 
-* terraform plan
+terraform plan
 
 ### Apply
-* terraform apply 
+terraform apply 
 
 ### Clean Up
-* terraform destroy
+terraform destroy
